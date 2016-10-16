@@ -2,7 +2,8 @@
 
 # This script wipes 4 flash drives, creates an MSDOS partition label, creates a paritionand creates a FAT32 partition
 # This is to be used with a USB hub for quick and easy paritioning
-# Author: Drew Tramutolo
+
+# Author: Whitley Striber
 
 # ensure all of the partitions on every drive are unmounted
 umount -f /dev/sd*
